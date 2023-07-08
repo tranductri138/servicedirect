@@ -1,4 +1,4 @@
 const profile = {
-    name : 'tris' ,
-    age : 25
-}
+  name: "tris",
+  age: 25,
+};
